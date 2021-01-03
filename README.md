@@ -19,3 +19,10 @@
             > start working with pwa
         - Able to fetch and display data on enter with
             city name in the input
+
+    3. 3rd Commit
+        - 21:12 - 30:00
+        - Service Worker Set Up and installation
+        - See public/index.html under <script> under the 'root'
+            <div>
+        - See public/serviceworker.js
