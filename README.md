@@ -26,3 +26,9 @@
         - See public/index.html under <script> under the 'root'
             <div>
         - See public/serviceworker.js
+
+    4. 4th Commit
+        - 30:00 - 42:52
+        - Finish setting up service worker and index.html
+            header for PWA icons
+        - Also set up manifest.json file
